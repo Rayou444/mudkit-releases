@@ -1,7 +1,7 @@
 # Mudkit
 
-Le compagnon de PC de Rayan : clips, téléchargeur, convertisseur, détourage, touches et plus.
+Un compagnon pour PC Windows : clips de jeu, téléchargeur, convertisseur, PDF, détourage, touches et plus.
 
-**Télécharger :** https://mudkit.rayvisual.me
+**Télécharger :** https://github.com/Rayou444/mudkit-releases/releases/latest/download/MudkitSetup.exe
 
-Ce dépôt ne contient que les versions publiées (installateur `MudkitSetup.exe` et mises à jour automatiques). Mudkit se met à jour tout seul.
+Ce dépôt ne contient que les versions publiées (l'installateur `MudkitSetup.exe` et les mises à jour automatiques). Mudkit se met à jour tout seul.
